@@ -8,8 +8,6 @@
     >
       Hello World
     </h1>
-    <h2>
-      deploy test
-    </h2>
+    <h2>deploy test</h2>
   </main>
 </template>
